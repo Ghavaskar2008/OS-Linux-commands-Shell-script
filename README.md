@@ -114,12 +114,6 @@ hello world
 cat > newfile 
 Hello world
 hello world
- 
-grep Hello newfile 
-## OUTPUT
-<img width="307" height="75" alt="image" src="https://github.com/user-attachments/assets/ba37edcc-20dc-4eb8-822e-7844a8f35434" />
-
-
 
 grep hello newfile 
 ## OUTPUT
